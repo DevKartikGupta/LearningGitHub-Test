@@ -1,1 +1,2 @@
 This is called line number 1
+This is called line number 2
